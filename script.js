@@ -4,7 +4,7 @@
 
 const CONFIG = {
   // Paste your WhatsApp community invite link here.
-  whatsappInvite: "https://chat.whatsapp.com/YOUR-INVITE-CODE",
+  whatsappInvite: "https://chat.whatsapp.com/E1DBc6sKUBpKaRb2GjRkuK",
 };
 
 const root = document.documentElement;
